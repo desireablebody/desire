@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.memoryaid.com/sitemap_memory.xml
+Sitemap: http://www.vitalife.co.uk/sitemap_vl.xml
+Sitemap: http://www.forzadirect.com/sitemap_fd.xml
+Sitemap: http://www.desirablebody.co.uk/sitemap_en.xml
+Sitemap: http://www.desirablebody.it/sitemap_it.xml
+Sitemap: http://www.desirablebody.es/sitemap_es.xml
+Sitemap: http://www.desirablebody.de/sitemap_de.xml
+Disallow: /*?ajax=1
